@@ -8,8 +8,8 @@
 
  <div>
   <a href="https://github.com/viniciusfmachioski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusfmachioski&show_icons=true&theme=tokyonight&title_color=fcf3e8&icon_color=fcf3e8&text_color=1477e0&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfmachioski&layout=compact&langs_count=7&title_color=fcf3e8&icon_color=fcf3e8&text_color=1477e0&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusfmachioski&show_icons=true&theme=tokyonight&title_color=fcf3e8&icon_color=fcf3e8&text_color=1477e0&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfmachioski&layout=compact&langs_count=7&title_color=fcf3e8&icon_color=fcf3e8&text_color=1477e0&hide_border=true&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_none"><br>
